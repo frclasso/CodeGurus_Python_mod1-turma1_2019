@@ -13,10 +13,10 @@ frase2  = "Bem vindos ao curso de Python da Code Cla"
 
 # indices em Python iniciam por zero (0) dentro de colchetes
 
-# print(frase1[0]) # primeiro indice 'E'
-# print(frase1[-1]) # ultimo indice 's'
+print(frase1[0]) # primeiro indice 'E'
+print(frase1[-1]) # ultimo indice 's'
 
 # fatias/slices [:]
 # print(frase1[0:2])  # imprime do primeiro indice (0) até o terceiro exclusive 'u'
 # print(frase1[3:8])
-print(len(frase1))
+print(len(frase1)

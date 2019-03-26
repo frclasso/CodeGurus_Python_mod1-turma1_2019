@@ -7,6 +7,6 @@ sobronome = 'Classo'
 cargo ='Developer'
 cidadania = 'Brasileiro'
 
-
-print('Meu nome eh {} {}, e sou {} e {}.'.format(nome, sobronome,cidadania, cargo)) 
+print("Meu nome: {}".format(nome))
+# print('Meu nome eh {} {}, e sou {} e {}.'.format(nome, sobronome,cidadania, cargo)) 
 
