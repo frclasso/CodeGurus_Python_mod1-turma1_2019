@@ -1,0 +1,15 @@
+Aula 01
+=======
+Cap 03 - Elementos de sintxe basica
+
+
+Aula 02
+=======
+Cap 04 - listas
+Cap 05  - Operadores basicos
+
+
+Aula 03 - 01/abr/19
+========
+Cap 06 - Estruturas de decisão
+
