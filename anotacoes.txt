@@ -12,4 +12,18 @@ Cap 05  - Operadores basicos
 Aula 03 - 01/abr/19
 ========
 Cap 06 - Estruturas de decisão
+Cap 07 -  Estruturas de repetição
+
+Aula 04 - 08/abr/19
+=======
+cadastro.py
+imposto_de_renda.py
+menu_restaurante.py
+
+
+
+Aula05
+=====
+IMC.py
+
 
