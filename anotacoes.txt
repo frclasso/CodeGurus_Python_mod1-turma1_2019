@@ -22,8 +22,11 @@ menu_restaurante.py
 
 
 
-Aula05
-=====
+Aula05 - 15/04
+==============
 IMC.py
+Cap16 - Arquivos .txt,.csv, .xlsx == ok
+
+
 
 
