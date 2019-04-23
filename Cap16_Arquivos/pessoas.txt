@@ -1,5 +1,3 @@
-Peter,Parker,peter.parker@email.com,
-Mary,Jane,mary.jane@email.com,
-Clark,Kent,clark.kent@email.com,
-Bruce,Waine,bruce.waine@email.com,
-John,Snow,john.snow@email.com,
+['Fabio', 'Classo', 'fabioclasso@email.com']
+['Peter', 'Parker', 'pparker@email.com']
+['Mary', 'Jane', 'mjewatson@email.com']

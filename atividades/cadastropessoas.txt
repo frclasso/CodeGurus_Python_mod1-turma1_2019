@@ -1,0 +1,8 @@
+('Fabio', 'Classo', 'fabio.classo@email.com')
+('Peter', 'Parker', 'peter.parker@email.com')
+('Mary', 'Jane', 'mary.jane@email.com')
+('Bruce', 'Wayne', 'bruce.wayne@email.com')
+('Juliana', 'Classo', 'juliana.classo@email.com')
+('Juan', 'Pablo', 'juan.pablo@email.com')
+('Donald', 'Trump', 'donald.trump@email.com')
+('burro', 'scherek', 'burro.scherek@email.com')

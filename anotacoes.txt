@@ -27,6 +27,12 @@ Aula05 - 15/04
 IMC.py
 Cap16 - Arquivos .txt,.csv, .xlsx == ok
 
+Aula 06
+=======
+Funções
+
+
+
 
 
 
