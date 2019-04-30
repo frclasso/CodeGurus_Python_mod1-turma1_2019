@@ -27,9 +27,28 @@ Aula05 - 15/04
 IMC.py
 Cap16 - Arquivos .txt,.csv, .xlsx == ok
 
-Aula 06
+Aula 06 22/04
 =======
-Funções
+Funções - ok
+
+
+Aula 07 29/04
+=============
+Fuções - menu restaurante
+
+Aula 08
+=======
+Vamos fazer os capítulos 10,11 e 12 (Listas, Tuplas e Dicionarios)
+
+Aula 09
+=======
+Tratamento de erros e excessões
+
+Aula 10
+=======
+Construindo uma interface gráfica com tkinter
+Deploy da aplicação com git hub
+
 
 
 

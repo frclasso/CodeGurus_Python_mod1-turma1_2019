@@ -6,3 +6,4 @@
 ('Juan', 'Pablo', 'juan.pablo@email.com')
 ('Donald', 'Trump', 'donald.trump@email.com')
 ('burro', 'scherek', 'burro.scherek@email.com')
+('fabio', 'classo', 'fabio.classo@email.com')
