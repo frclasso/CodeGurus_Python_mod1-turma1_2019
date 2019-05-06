@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# -*-coding:utf-8 -*-
+# -*-coding:utf-8 -*-   
 
 def menu_massas():
     print('Nosso cardápio de massas')

@@ -36,7 +36,7 @@ Aula 07 29/04
 =============
 Fuções - menu restaurante
 
-Aula 08
+Aula 08 - 06/05
 =======
 Vamos fazer os capítulos 10,11 e 12 (Listas, Tuplas e Dicionarios)
 
