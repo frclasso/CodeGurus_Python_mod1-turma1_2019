@@ -1,5 +1,5 @@
-Repositório da Turma de Python 1 -  2019 Code Clã
-=============================================
+Repositório da Turma de Python 1 -  2019 Floripa Code Gurus
+===================================================
 
 
 Repositório do curso de Python módulo 1 da Code Clã, a maior parte dos exemplos
@@ -22,31 +22,26 @@ Vamos padronizar da seguinte maneira:
 
 
 Sigam-nos nas redes sociais e concorram a descontos nos nossos cursos presenciais
----------------------------------------------------------------------------------
+------------------------------------------------------------------
 
-https://www.codecla.com.br
-
-https://www.instagram.com/codecla/
-
-https://www.facebook.com/codecla/
-
-https://www.linkedin.com/company/codecla/
-
+www.floripacodegurus.com.br
+https://twitter.com/GurusCode
+https://www.instagram.com/floripa_code_gurus/
+https://www.facebook.com/codegurs/
 
 ![Image](https://github.com/frclasso/turma1_Python2019_CodeCla/blob/master/banner_laranja.png)
 
 
 Trilha Python
 --------------
-![Image](https://github.com/frclasso/turma1_Python2019_CodeCla/blob/master/trilha_Python.png)
+![Image](https://github.com/frclasso/turma1_Python2019_CodeGurus/blob/master/banner__1004x558_github.png)
 
 
 
 
 Contatos:
 --------- 
-
-Code Clã: contato@codecla.com.br
+atendimento@floripacodegurus.com.br
 
 Fabio: frclasso@gmail.com
 
