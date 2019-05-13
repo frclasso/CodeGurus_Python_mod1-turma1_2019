@@ -25,16 +25,19 @@ Sigam-nos nas redes sociais e concorram a descontos nos nossos cursos presenciai
 ------------------------------------------------------------------
 
 www.floripacodegurus.com.br
+
 https://twitter.com/GurusCode
+
 https://www.instagram.com/floripa_code_gurus/
+
 https://www.facebook.com/codegurs/
 
-![Image](https://github.com/frclasso/turma1_Python2019_CodeCla/blob/master/banner_laranja.png)
+![Image](https://github.com/frclasso/turma1_Python2019_CodeGurus/blob/master/banner__1004x558_github.png)
 
 
 Trilha Python
 --------------
-![Image](https://github.com/frclasso/turma1_Python2019_CodeGurus/blob/master/banner__1004x558_github.png)
+![Image](https://github.com/frclasso/turma1_Python2019_CodeCla/blob/master/trilha_Python.png)
 
 
 
