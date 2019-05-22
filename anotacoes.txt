@@ -1,9 +1,9 @@
-Aula 01
+Aula 01 - 18/03
 =======
 Cap 03 - Elementos de sintxe basica
 
 
-Aula 02
+Aula 02 - 25/03
 =======
 Cap 04 - listas
 Cap 05  - Operadores basicos
@@ -40,13 +40,14 @@ Aula 08 - 06/05
 =======
 Vamos fazer os capítulos 10,11 e 12 (Listas, Tuplas e Dicionarios)
 
-Aula 09
-=======
-Tratamento de erros e excessões
-
-Aula 10
+Aula 09 - 13/05
 =======
 Construindo uma interface gráfica com tkinter
+
+
+Aula 10 - 20/05
+=======
+Tratamento de erros e exceções
 Deploy da aplicação com git hub
 
 
