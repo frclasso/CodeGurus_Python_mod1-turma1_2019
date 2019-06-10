@@ -12,13 +12,13 @@ como projetos e atividades em grupo.
 O conteúdo será atualizado semanalmente de acordo com o andamento do curso.
 
 
-Commitando códigos
-------------------
-
-Vamos padronizar da seguinte maneira:
-
-- Salvem seus arquivos no diretório correspondente, no formato **nome_arquivo_nome_do_usuario.py**
-- Exemplo: **teste_Fabio.py**
+Alunos
+------
+Cristiane Ruidieger
+Fabio Rigoli
+Lazaro Tedesco
+Joao Amorim D'Amoreira
+Maximiliano Salvatti
 
 
 Sigam-nos nas redes sociais e concorram a descontos nos nossos cursos presenciais
